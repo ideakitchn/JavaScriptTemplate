@@ -1,4 +1,4 @@
-[jsTemplate] - my personal template for JavaScript
+jsTemplate - my personal template for JavaScript
 ==================================================
 
 This is a self executing anonymous functions template that I use for JavaScript templates.
